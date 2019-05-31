@@ -1,0 +1,5 @@
+add_subdirectory(m3_ex1)
+add_subdirectory(m3_ex2)
+add_subdirectory(m3_ex3)
+add_subdirectory(m3_ex4)
+add_subdirectory(m3_ex5)

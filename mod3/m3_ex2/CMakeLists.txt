@@ -1,0 +1,1 @@
+add_executable(m3_ex2 m3_ex2.cpp)
