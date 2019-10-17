@@ -1,0 +1,1 @@
+add_executable(ex7 main.cpp)
